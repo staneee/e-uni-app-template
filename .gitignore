@@ -1,7 +1,7 @@
 .DS_Store
-uni-app/node_modules/
+node_modules/
 unpackage/
-uni-app/dist/
+dist/
 
 # local env files
 .env.local
