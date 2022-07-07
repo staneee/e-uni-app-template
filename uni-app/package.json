@@ -34,7 +34,7 @@
     "@dcloudio/uni-mp-weixin": "^2.0.0-24220191115006",
     "@dcloudio/uni-stat": "^2.0.0-24220191115006",
     "flyio": "^0.6.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.27",
     "regenerator-runtime": "^0.12.1",
     "vue": "^2.6.10",
